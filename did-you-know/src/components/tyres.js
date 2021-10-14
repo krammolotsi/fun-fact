@@ -44,11 +44,6 @@ function Tyres(props) {
       let goldenNum = test[0].includes(random.toString());
       let goldenNum2 = test[1].includes(random.toString());
       let goldenNum3 = test[2].includes(random.toString());
-      // console.log('this is the randcom number ' + random.toString());
-      // console.log(test[0] + '  < - > ' + test[1]);
-      // console.log(
-      //   'First golden num = ' + goldenNum + ' Second golden num = ' + goldenNum2
-      // );
       if (goldenNum || goldenNum2 || goldenNum3) {
         setReveal(
           <div className="max-w-md py-3 px-3 shadow-lg rounded-lg my-19 bg-white">
@@ -59,7 +54,7 @@ function Tyres(props) {
             </div>
             <img
               className="w-40 h-50 object-cover"
-              src="egg.jpg"
+              src="https://w7.pngwing.com/pngs/640/208/png-transparent-red-easter-egg-golden-easter-egg-gold-easter-egg-with-red-bow-gold-colored-egg-with-red-ribbon-food-color-easter-egg-thumbnail.png"
               alt="you win"
             />
           </div>
@@ -74,7 +69,7 @@ function Tyres(props) {
             </div>
             <img
               className="w-40 h-50 object-cover"
-              src="lose.png"
+              src="https://www.pngitem.com/pimgs/m/8-82835_sad-face-emoji-png-sad-face-emoji-transparent.png"
               alt="you win"
             />
           </div>
@@ -90,7 +85,7 @@ function Tyres(props) {
       <div className="  flex justify-end mt-4">
         <button onClick={showAnswer}>
           <img
-            src="dyk.png"
+            src="https://t4.ftcdn.net/jpg/02/93/37/27/360_F_293372780_CCH8z0l5rMDbwDs680LKGBf9pU1bS9GU.jpg"
             alt="flip tyre"
             className="animate-wiggle w-25 h-20 object-cover"
           />
