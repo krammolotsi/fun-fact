@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import * as ROUTES from './constants/routes';
 import ReactLoader from './components/loader';
 const Login = lazy(() => import('./pages/login'));
-const NotFound = lazy(() => import('./pages/not-found'));
+const Home = lazy(() => import('./pages/home'));
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Suspense fallback={<ReactLoader />}>
         <Switch>
           <Route path={ROUTES.LOGIN} component={Login} />
-          <Route component={NotFound} />
+          <Route component={Home} />
         </Switch>
       </Suspense>
     </Router>

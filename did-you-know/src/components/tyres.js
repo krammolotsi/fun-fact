@@ -40,15 +40,15 @@ function Tyres(props) {
           </div>
         </div>
       );
-    } else if (test.length == 5) {
+    } else if (test.length === 5) {
       let goldenNum = test[0].includes(random.toString());
       let goldenNum2 = test[1].includes(random.toString());
       let goldenNum3 = test[2].includes(random.toString());
-      console.log('this is the randcom number ' + random.toString());
-      console.log(test[0] + '  < - > ' + test[1]);
-      console.log(
-        'First golden num = ' + goldenNum + ' Second golden num = ' + goldenNum2
-      );
+      // console.log('this is the randcom number ' + random.toString());
+      // console.log(test[0] + '  < - > ' + test[1]);
+      // console.log(
+      //   'First golden num = ' + goldenNum + ' Second golden num = ' + goldenNum2
+      // );
       if (goldenNum || goldenNum2 || goldenNum3) {
         setReveal(
           <div className="max-w-md py-3 px-3 shadow-lg rounded-lg my-19 bg-white">

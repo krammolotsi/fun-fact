@@ -1,7 +1,7 @@
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 //import Header from '../components/header';
 import Tyres from '../components/tyres';
-export default function NotFound() {
+export default function Home() {
   useEffect(() => {
     document.title = 'Did you know?';
   }, []);
@@ -14,8 +14,8 @@ export default function NotFound() {
     num = numq;
     idArray.unshift(num);
 
-    console.log('this is the params = ' + num);
-    console.log('this is the first array = ' + idArray);
+    // console.log('this is the params = ' + num);
+    // console.log('this is the first array = ' + idArray);
   }
   return (
     <div className="grid gap-2 grid-cols-4">
