@@ -1,6 +1,6 @@
 {
-  "homepage": "http://krammolotsi.github.io/fun-fact/did-you-know",
-  "name": "did-you-know",
+  "homepage": "http://krammolotsi.github.io/fun-fact",
+  "name": "fun-fact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
