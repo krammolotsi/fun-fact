@@ -34,7 +34,7 @@ function Tyres(props) {
             />
           </div>
           <div>
-            <p className="mt-2 font-semibold text-2xl text-white">
+            <p className="mt-2 font-semibold text-1xl text-white">
               {answerArray[test.length - 1]}
             </p>
           </div>
@@ -68,7 +68,7 @@ function Tyres(props) {
               </h2>
             </div>
             <img
-              className="w-40 h-50 object-cover"
+              className="w-40 h-40 object-cover"
               src="https://www.pngitem.com/pimgs/m/8-82835_sad-face-emoji-png-sad-face-emoji-transparent.png"
               alt="you win"
             />
