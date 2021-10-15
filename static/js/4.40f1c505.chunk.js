@@ -1,0 +1,2 @@
+(this["webpackJsonpfun-fact"]=this["webpackJsonpfun-fact"]||[]).push([[4],{48:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return s}));var c=t(5);function s(){return Object(c.jsx)("div",{className:"container flex mx-auto max-w-screen-md items-center h-screen",children:Object(c.jsx)("p",{children:"Login"})})}}}]);
+//# sourceMappingURL=4.40f1c505.chunk.js.map

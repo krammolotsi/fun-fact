@@ -1,2 +1,0 @@
-(this["webpackJsonpdid-you-know"]=this["webpackJsonpdid-you-know"]||[]).push([[4],{48:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return i}));var c=t(5);function i(){return Object(c.jsx)("div",{className:"container flex mx-auto max-w-screen-md items-center h-screen",children:Object(c.jsx)("p",{children:"Login"})})}}}]);
-//# sourceMappingURL=4.94333f9e.chunk.js.map
