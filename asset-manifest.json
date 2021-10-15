@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fun-fact/did-you-know/static/css/main.f72e4897.chunk.css",
+    "main.js": "/fun-fact/did-you-know/static/js/main.b9397a39.chunk.js",
+    "main.js.map": "/fun-fact/did-you-know/static/js/main.b9397a39.chunk.js.map",
+    "runtime-main.js": "/fun-fact/did-you-know/static/js/runtime-main.9ad1589e.js",
+    "runtime-main.js.map": "/fun-fact/did-you-know/static/js/runtime-main.9ad1589e.js.map",
+    "static/js/2.31e352f1.chunk.js": "/fun-fact/did-you-know/static/js/2.31e352f1.chunk.js",
+    "static/js/2.31e352f1.chunk.js.map": "/fun-fact/did-you-know/static/js/2.31e352f1.chunk.js.map",
+    "static/js/3.d6adc7d5.chunk.js": "/fun-fact/did-you-know/static/js/3.d6adc7d5.chunk.js",
+    "static/js/3.d6adc7d5.chunk.js.map": "/fun-fact/did-you-know/static/js/3.d6adc7d5.chunk.js.map",
+    "static/js/4.94333f9e.chunk.js": "/fun-fact/did-you-know/static/js/4.94333f9e.chunk.js",
+    "static/js/4.94333f9e.chunk.js.map": "/fun-fact/did-you-know/static/js/4.94333f9e.chunk.js.map",
+    "index.html": "/fun-fact/did-you-know/index.html",
+    "static/css/main.f72e4897.chunk.css.map": "/fun-fact/did-you-know/static/css/main.f72e4897.chunk.css.map",
+    "static/js/2.31e352f1.chunk.js.LICENSE.txt": "/fun-fact/did-you-know/static/js/2.31e352f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ad1589e.js",
+    "static/js/2.31e352f1.chunk.js",
+    "static/css/main.f72e4897.chunk.css",
+    "static/js/main.b9397a39.chunk.js"
+  ]
+}
